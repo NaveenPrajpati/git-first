@@ -4,6 +4,7 @@ public class Sol {
         for(int i=1;i<=10;i++){
             System.out.println("this is 5 table");
             System.out.println(i*n);
+            System.out.println(" ----");
 
         }
     }
