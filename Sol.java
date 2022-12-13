@@ -5,7 +5,6 @@ public class Sol {
             System.out.println("this is 5 table");
             System.out.println(i*n);
             System.out.println(" ----");
-            System.out.println();
 
         }
     }
